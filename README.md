@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### I'm a UX Researcher with 5+ years of experience leading end-to-end research projects across the consumer goods, financial, and education sectors. I'm currently pursuing an MSc in Computational Social Science at Universidad Carlos III de Madrid. 
+#### I'm a Product Analyst with 5+ years of experience leading end-to-end projects across the consumer goods, financial, and education sectors. I'm currently pursuing an MSc in Computational Social Science at Universidad Carlos III de Madrid. 
 
 <!--
 **isabelmonge/isabelmonge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

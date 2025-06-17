@@ -2,6 +2,8 @@
 
 #### I'm a Product Analyst with 5+ years of experience leading end-to-end projects across the consumer goods, financial, and education sectors. I'm currently pursuing an MSc in Computational Social Science at Universidad Carlos III de Madrid. 
 
+My portfolio: https://isabel-monge-portfolio.lovable.app/
+
 <!--
 **isabelmonge/isabelmonge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

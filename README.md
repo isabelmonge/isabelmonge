@@ -3,6 +3,7 @@
 #### I'm a UX Researcher / Product Strategist with 5+ years of experience leading end-to-end projects across the consumer goods, financial, and education sectors. I recently completed an MSc in Computational Social Science at Universidad Carlos III de Madrid and am open to roles in the US 🇺🇸 or EU 🇪🇺.  
 
 My portfolio: https://isabel-monge-portfolio.lovable.app/
+Email: isammonge@gmail.com
 
 <!--
 **isabelmonge/isabelmonge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

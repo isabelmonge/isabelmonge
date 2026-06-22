@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### Currently a Product Manager on a seed-stage team, leading new product development. Previously the first Product Strategist at a venture-backed startup acquired for $330M. Open to roles in the US 🇺🇸 or EU 🇪🇺.  
+#### Currently a Product Manager on a seed-stage team, leading new product development. Previously the first Product Strategist at a venture-backed startup acquired for $330M. Open to roles in the US 🇺🇸 or EU 🇪🇺.   
 
 My portfolio: https://isabel-monge-portfolio.lovable.app/ | 
 Email: isammonge@gmail.com

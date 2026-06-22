@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### I'm a UX Researcher / Product Strategist with 5+ years of experience leading end-to-end projects across the consumer goods, financial, and education sectors. I recently completed an MSc in Computational Social Science at Universidad Carlos III de Madrid and am open to roles in the US 🇺🇸 or EU 🇪🇺.  
+#### Currently a Product Manager on a seed-stage team, leading new product development. Previously the first Product Strategist at a venture-backed startup acquired for $330M. Open to roles in the US 🇺🇸 or EU 🇪🇺.  
 
 My portfolio: https://isabel-monge-portfolio.lovable.app/ | 
 Email: isammonge@gmail.com
